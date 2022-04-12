@@ -1,1 +1,1 @@
-web: gunicorn SBPRS_app.py
+web: gunicorn SBPRS_app:SBPRS_app
